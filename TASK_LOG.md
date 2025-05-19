@@ -29,5 +29,4 @@ This document tracks the tasks completed for the version-controlled DevOps proje
 
 ## ✅ Task 6: Documentation
 - Wrote detailed `README.md`
-- Created this task log in `TASK_LOG.md`
-
+- Created this task log in `TASK_LOG.md'
