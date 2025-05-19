@@ -1,5 +1,4 @@
 # DevOps Project
-# DevOps Project
 
 ## Description
 A sample DevOps project following Git best practices.
